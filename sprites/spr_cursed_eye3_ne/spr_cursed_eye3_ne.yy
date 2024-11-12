@@ -31,8 +31,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Musuh",
-    "path":"folders/Sprites/Musuh.yy",
+    "name":"Cursed Eye",
+    "path":"folders/Sprites/Musuh/Cursed Eye.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
